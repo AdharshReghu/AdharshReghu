@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdharshReghu
-- 👀 I’m interested in Full stack web development and android developement(flutter)
+- 👀 I’m interested in Full stack web development and app developement(flutter)
 - 🌱 I’m currently learning flutter and DSA
 - 💞️ I’m looking to collaborate on public
 - 📫 How to reach me : Telegram https://t.me/Adharsh_reghu 
