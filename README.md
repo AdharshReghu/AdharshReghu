@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web and Mobile Applications**
 
-- 🌱 I’m currently learning **Flutter,NODE.js,React,DSA**
+- 🌱 I’m currently learning **Flutter,NODE.js,React and DSA**
 
 - 🤝 I’m looking for help with **Backend Developement**
 
